@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="POS.ExternalMedia.Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PosWebApiUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:5000</Value>
+    </Setting>
+    <Setting Name="ScaleConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">COM1</Value>
+    </Setting>
+    <Setting Name="ScannerConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RS232Scanner</Value>
+    </Setting>
+    <Setting Name="ScaleConnector" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">COM</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
